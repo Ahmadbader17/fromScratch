@@ -38,9 +38,4 @@ Here is a list of machine learning algorithms implemented so far:
 - **Backpropagation Algorithm**
 - **Perceptron Learning Algorithm**
 
----
-
-## Repository Structure
-
-The repository is organized as follows:
 
