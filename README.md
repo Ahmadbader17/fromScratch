@@ -13,7 +13,7 @@ Welcome to **fromScratch**, a repository where I implement various machine learn
 
 ## Implemented Algorithms
 
-Here is a list of machine learning algorithms implemented so far:
+Here is a list of machine learning algorithms that will be covered:
 
 ### Supervised Learning
 - **Linear Regression**
