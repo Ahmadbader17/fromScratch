@@ -25,8 +25,6 @@ Here is a list of machine learning algorithms that will be covered:
 
 ### Unsupervised Learning
 - **K-Means Clustering**
-- **Hierarchical Clustering**
-- **Principal Component Analysis (PCA)**
 
 ### Optimization Techniques
 - **Gradient Descent**
