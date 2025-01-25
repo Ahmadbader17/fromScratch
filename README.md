@@ -18,6 +18,8 @@ Here is a list of machine learning algorithms that will be covered:
 ### Supervised Learning
 - **Linear Regression**
 - **Logistic Regression**
+- **Ridge Regression(L2)**
+- **Lasso Regression(L1)**
 - **Support Vector Machines (SVM)**
 - **Decision Trees**
 - **Random Forest**
