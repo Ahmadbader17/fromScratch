@@ -22,7 +22,7 @@ Here is a list of machine learning algorithms that will be covered:
 - **Lasso Regression(L1)**
 - **Support Vector Machines (SVM)**
 - **Decision Trees**
-- **Random Forest**
+- **Cross-Validation**
 - **K-Nearest Neighbors (KNN)**
 
 ### Unsupervised Learning
