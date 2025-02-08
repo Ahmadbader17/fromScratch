@@ -28,10 +28,6 @@ Here is a list of machine learning algorithms that will be covered:
 ### Unsupervised Learning
 - **K-Means Clustering**
 
-### Optimization Techniques
-- **Gradient Descent**
-- **Stochastic Gradient Descent (SGD)**
-- **Batch Gradient Descent**
 
 ### Neural Networks
 - **Feedforward Neural Networks**
