@@ -24,14 +24,13 @@ This project aims to **deepen my understanding** of machine learning fundamental
 - **Decision Trees**
 - **Random Forests** (Upcoming)
 - **Gradient Boosting (GBM)**
-- **XGBoost** (In Progress 🚀)
+- **XGBoost** 
 - **K-Nearest Neighbors (KNN)**
 - **Cross-Validation**
 
 ### **Unsupervised Learning**
 - **K-Means Clustering**
-- **Principal Component Analysis (PCA)** (Upcoming)
-- **DBSCAN** (Upcoming)
+- **Principal Component Analysis (PCA)**
 
 ### **Neural Networks**
 - **Feedforward Neural Networks**
